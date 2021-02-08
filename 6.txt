@@ -1,0 +1,1 @@
+This file shoud be visible only in branch f2 after 4th commit
